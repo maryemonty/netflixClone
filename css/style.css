@@ -1,5 +1,6 @@
 body{
     background-color: #141414;
+    color: white
 }
 .logo{
     width: 100px;
@@ -40,8 +41,8 @@ body{
 }
 
 .av{
-    width: 50%;
-    height: auto;
+    width: 157px;
+    height: 159px;
 }
 
 .bg-gradient{
