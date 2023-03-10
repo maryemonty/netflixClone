@@ -38,3 +38,13 @@ body{
 .fs-7{
     font-size: 0.7rem;
 }
+
+.av{
+    width: 50%;
+    height: auto;
+}
+
+.bg-gradient{
+    background: #141414 !important;
+    background: linear-gradient(0deg, #141414 0%, #000 100%)!important;
+}
