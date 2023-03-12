@@ -10,10 +10,6 @@ body{
     width: 30px;
 }
 
-.bg-black{
-    background-color: #141414!important;
-}
-
 .ombra{
     position:absolute;
     right: 0;
