@@ -5,8 +5,16 @@ body{
 .bg{
     background-color: #141414;
 }
+
+.txt{
+    color:#545551
+}
+
 .logo{
     width: 100px;
+}
+.logo2{
+    width: 150px;
 }
 
 .avatar{
@@ -53,9 +61,9 @@ body{
     margin-right: -400px
 }
 
-.bg-gradient{
-    background: #141414 !important;
-    background: linear-gradient(0deg, #141414 0%, #000 100%)!important;
+.gradient{
+    background: #141414;
+    background: linear-gradient(0deg, #141414 0%, #000 100%);
 }
 
 .ms-6{
