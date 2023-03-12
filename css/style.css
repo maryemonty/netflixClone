@@ -81,3 +81,8 @@ body{
 .check:focus{
     box-shadow: none;
 }
+
+.btn:hover, .btn:focus{
+    background-color: white!important;
+    color: rgb(0, 0, 0)!important
+}
