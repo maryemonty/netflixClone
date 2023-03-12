@@ -40,9 +40,18 @@ body{
     font-size: 0.8rem;
 }
 
+.fs-8{
+    font-size: 0.4rem;
+}
+
+.fs-0{
+    font-size: 3.8rem;
+}
+
 .av{
-    width: 157px;
-    height: 159px;
+    width: 100px;
+    height: 102px;
+    margin-right: -400px
 }
 
 .bg-gradient{
@@ -54,4 +63,22 @@ body{
     margin-left: 29%;
     width: 42%;
     border-bottom: 1px solid grey;
+}
+
+.ps{
+    position: absolute;
+    bottom: 5px!important;
+    left: 6px!important;
+    cursor: pointer;
+}
+
+.mg{
+    margin-left: -30px;
+}
+
+.check:checked{
+    opacity: 0.5;
+}
+.check:focus{
+    box-shadow: none;
 }
