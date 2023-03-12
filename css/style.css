@@ -2,6 +2,9 @@ body{
     background-color: #141414;
     color: white
 }
+.bg{
+    background-color: #141414;
+}
 .logo{
     width: 100px;
 }
